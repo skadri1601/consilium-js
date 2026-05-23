@@ -42,7 +42,7 @@
     "url": "https://github.com/skadri1601/consilium-js.git"
   },
   "devDependencies": {
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   },
   "engines": {
     "node": ">=18.0.0"
